@@ -1,5 +1,5 @@
 # tensorflow_cpp
-code from https://github.com/hhguo/TensorflowModelDecoder(https://github.com/hhguo/TensorflowModelDecoder)
+code from https://github.com/hhguo/TensorflowModelDecoder
 
 
 bazel 0.13.0
